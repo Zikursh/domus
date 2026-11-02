@@ -13,5 +13,5 @@ The whole site is `index.html`. The model is embedded in the page, so there are 
 ## Using the viewer
 
 - Drag to orbit, scroll or pinch to zoom, right-drag or two fingers to pan.
-- Press a stop (I to VI) to fly to that room. The roofs come off so the room is visible.
-- Roofs off / Roofs on toggles the roofs. Plan view looks straight down. Whole house returns to the opening view.
+- Press a stop (I to VI) to fly to that room and look down into it over the walls.
+- Walls off / Walls on hides or shows the walls so every room is visible at once. Plan view looks straight down. Whole house returns to the opening view.
